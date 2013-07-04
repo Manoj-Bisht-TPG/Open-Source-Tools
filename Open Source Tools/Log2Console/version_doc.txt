@@ -1,0 +1,22 @@
+Released versions
+---------------------
+
+v1.6.0.0
+Released 07th June 2013. Requires .NET Framework 2.0 or above
+
+1. ADO.Net appender support(SQL server logs)
+2. File appender with Pattern layout support(Plain text file logs)
+3. Improved search criteria as it works for all the columns.
+4. For performance gain,user input for rows count to retrieve from database log table.
+5. Generic column structure in case of SQL logs.
+
+v1.6.0.1
+Released 20th June 2013. Requires .NET Framework 2.0 or above
+
+1. Issue resolution to view stack tarce information. 
+2. Modification to select file to watch using open file dialog while using file receivers.
+
+V1.6.0.2
+Released 24th June 2013. Requires .NET Framework 2.0 or above
+
+1. New Receiver added for MySQL database connectivity.
